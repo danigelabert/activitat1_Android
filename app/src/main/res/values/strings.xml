@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activitat1</string>
+    <string name="okButton">OK</string>
+    <string name="nomEditText">Usuari</string>
+</resources>
